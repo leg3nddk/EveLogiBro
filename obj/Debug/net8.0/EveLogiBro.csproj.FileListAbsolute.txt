@@ -163,3 +163,4 @@ C:\Development\Eve-Logi\EveLogiBro\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Wo
 C:\Development\Eve-Logi\EveLogiBro\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Development\Eve-Logi\EveLogiBro\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Development\Eve-Logi\EveLogiBro\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Development\Eve-Logi\EveLogiBro\obj\Debug\net8.0\EveLogiBro.sourcelink.json
