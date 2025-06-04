@@ -126,4 +126,25 @@ header p {
     .stat-card {
         padding: 20px;
     }
+
+    /* Connection status indicator */
+    .connection-status {
+        margin-top: 10px;
+        font-size: 0.9rem;
+        padding: 5px 10px;
+        border-radius: 15px;
+        display: inline-block;
+    }
+
+    .connection-status.connected {
+        color: #4a9eff;
+        background: rgba(74, 158, 255, 0.1);
+        border: 1px solid rgba(74, 158, 255, 0.3);
+    }
+
+    .connection-status.disconnected {
+        color: #ff4a4a;
+        background: rgba(255, 74, 74, 0.1);
+        border: 1px solid rgba(255, 74, 74, 0.3);
+    }
 }
