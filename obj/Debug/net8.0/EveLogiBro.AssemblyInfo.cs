@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EveLogiBro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+998140041ff47a018d0e3ae61aa9134a94d737f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d38234dde542ef4300e616960ac9f35f95a3c5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EveLogiBro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EveLogiBro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
