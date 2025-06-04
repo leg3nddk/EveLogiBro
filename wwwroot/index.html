@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EVE Logi Bro - Repair Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>EVE Logi Bro</h1>
+            <p>Shield & Armor Repair Tracking</p>
+        </header>
+
+        <main>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3>Current Session</h3>
+                    <div class="stat-value" id="currentReps">0</div>
+                    <div class="stat-label">Total Reps</div>
+                </div>
+                
+                <div class="stat-card">
+                    <h3>Reps Per Second</h3>
+                    <div class="stat-value" id="repsPerSecond">0.0</div>
+                    <div class="stat-label">Current RPS</div>
+                </div>
+
+                <div class="stat-card">
+                    <h3>Shield Reps</h3>
+                    <div class="stat-value" id="shieldReps">0</div>
+                    <div class="stat-label">This Session</div>
+                </div>
+
+                <div class="stat-card">
+                    <h3>Armor Reps</h3>
+                    <div class="stat-value" id="armorReps">0</div>
+                    <div class="stat-label">This Session</div>
+                </div>
+            </div>
+
+            <div class="targets-section">
+                <h2>Active Targets</h2>
+                <div class="targets-list" id="targetsList">
+                    <div class="target-item">
+                        <span class="target-name">Waiting for combat data...</span>
+                        <span class="target-reps">0 reps</span>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
